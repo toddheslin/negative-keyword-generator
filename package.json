@@ -1,0 +1,21 @@
+{
+	"name": "adwords-skag-negative",
+	"version": "1.0.0",
+	"description":
+		"Generate negative keywords for Single Keyword Adgroups in Adwords",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"google",
+		"adwords",
+		"negative keywords",
+		"adgroups",
+		"SKAG",
+		"Single Keyword Adgroups"
+	],
+	"author": "",
+	"license": "ISC"
+}
